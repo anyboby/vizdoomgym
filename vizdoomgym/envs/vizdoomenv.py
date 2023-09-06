@@ -23,6 +23,8 @@ CONFIGS = [
     ["take_cover.cfg", 2],  # 7
     ["deathmatch.cfg", 20],  # 8
     ["health_gathering_supreme.cfg", 3],  # 9
+    ["my_way_home_sparse.cfg", 5],  # 10
+    ["my_way_home_very_sparse.cfg", 5],  # 11
 ]
 
 
